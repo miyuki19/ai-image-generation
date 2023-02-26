@@ -44,13 +44,7 @@ PORT=
 VITE_APP_API_URL=
 ```
 
-5. Start the server
-
-```
-yarn start
-```
-
-6. Start the client
+5. Start the server and client
 
 ```
 yarn dev
