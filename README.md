@@ -47,7 +47,7 @@ VITE_APP_API_URL=
 5. Start the server and client
 
 ```
-yarn dev
+yarn start
 ```
 
 ## Technologies Used
