@@ -1,6 +1,7 @@
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 # AI Image Generation Web Application
+This is an AI Image Generation web application built using React, Node.js, Express, MongoDB, Tailwind CSS, OpenAI DALL-E model, and Cloudinary. The application allows users to generate unique images based on the text descriptions they provide.
 
 ## Demo URL
 
@@ -8,11 +9,9 @@
 https://ai-image-generation-client.onrender.com/
 ```
 
-![DEMO IMG](Capture.png)
+![Capture.png](https://github.com/miyuki19/ai-image-generation/blob/main/Capture.PNG)
 
-![GENERATE IMG](Generate_Image.png)
-
-This is an AI Image Generation web application built using React, Node.js, Express, MongoDB, Tailwind CSS, OpenAI DALL-E model, and Cloudinary. The application allows users to generate unique images based on the text descriptions they provide.
+![GENERATE IMG](https://github.com/miyuki19/ai-image-generation/blob/main/Generate_Image.PNG)
 
 ## Features
 
