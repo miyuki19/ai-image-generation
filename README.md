@@ -2,6 +2,16 @@
 
 # AI Image Generation Web Application
 
+## Demo URL
+
+```
+https://ai-image-generation-client.onrender.com/
+```
+
+![DEMO IMG](Capture.png)
+
+![GENERATE IMG](Generate_Image.png)
+
 This is an AI Image Generation web application built using React, Node.js, Express, MongoDB, Tailwind CSS, OpenAI DALL-E model, and Cloudinary. The application allows users to generate unique images based on the text descriptions they provide.
 
 ## Features
